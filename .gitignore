@@ -17,3 +17,4 @@ build
 bin
 classes
 *~
+/src/main/resources/application.properties
